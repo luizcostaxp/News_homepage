@@ -8,7 +8,7 @@ Make a News homepage of a fictional website so similar to the example as possibl
 
 ### Screenshot of the solution
 
-![](./screenshot.jpg)
+![](.News-homepage-main/screenshot.jpg)
 
 
 ### What I learned
